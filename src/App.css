@@ -1,0 +1,6 @@
+.App {
+  display: flex;
+  justify-content: center;
+  margin-top: 14%;
+   min-width: 0;
+}
